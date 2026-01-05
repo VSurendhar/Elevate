@@ -3,6 +3,8 @@
 
 Elevate is a progress streak maintainer application designed to help users **visualize consistency, discipline, and long-term growth** through intuitive progress representations. The app focuses on making progress **visible, motivating, and actionable**.
 
+All core features of Elevate are designed to work **not only inside the application but also through Home Screen Widgets**, allowing users to track progress at a glance without opening the app.
+
 This project is currently **in active development**. The core UI and architecture are in place, with multiple powerful features planned for future iterations.
 
 ---
@@ -98,6 +100,19 @@ This allows streaks to grow without requiring daily manual interaction.
     - Years already lived
     - Remaining years as a progress bar
 - Encourages intentional living and long-term planning
+
+---
+
+## 🧩 Widget Support (Core Feature)
+
+Elevate is designed with **widget-first thinking**:
+
+- All progress formats (Circular, Linear, Grid) can be displayed as widgets
+- Widgets reflect **real-time streak progress**
+- Users can:
+  - View streaks at a glance
+  - Trigger manual updates (where applicable)
+- Reduces friction by eliminating the need to open the app daily
 
 ---
 
