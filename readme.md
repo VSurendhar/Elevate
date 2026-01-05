@@ -15,6 +15,13 @@ Elevate offers **multiple progress visualization styles**, allowing users to cho
 
 ---
 
+## Screenshots
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+    <img src="https://github.com/user-attachments/assets/c25d4552-869c-4b79-8b3c-74dc4bd966c8" width="300" />
+    <img src="https://github.com/user-attachments/assets/f8ec823d-58d1-4549-ba6f-be84220e019b" width="300" />
+</div>
+
+
 ## 📊 Progress Representation Formats
 
 Users can set streaks using **three different progress formats**:
